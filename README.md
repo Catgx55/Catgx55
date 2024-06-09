@@ -19,8 +19,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Catgx55">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	 <a style="margin-left: 10px;"  target="_blank" href="cesartrujillo2016@hotmail.com">
-		 <img src="![image](https://github.com/Catgx55/Catgx55/assets/86887602/ee88f509-2ae5-4783-9bba-bb67b531d122)
-"></a>
+		 <img src=""></a>
       </div>
 
 </p>
